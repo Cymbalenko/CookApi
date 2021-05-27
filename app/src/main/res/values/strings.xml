@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CookApi</string>
+    <string name="text_dish">text_dish</string>
+</resources>
